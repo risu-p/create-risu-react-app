@@ -1,8 +1,8 @@
 {
-  "name": "create-codoon-react-app",
+  "name": "create-risu-react-app",
   "version": "0.0.1",
-  "description": "create codoon react app template",
-  "author": "liuxw@codoon.com",
+  "description": "create risu react app template",
+  "author": "xiaowei.liu0812@outlook.com",
   "license": "MIT",
   "bin": {
     "create-risu-react-app": "./scripts/createReactApp.js"

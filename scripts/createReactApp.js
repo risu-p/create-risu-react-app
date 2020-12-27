@@ -8,7 +8,7 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
-console.log("\x1B[36m%s\x1B[0m", "*****创建咕咚React仓库*****");
+console.log("\x1B[36m%s\x1B[0m", "*****创建Risu React仓库*****");
 
 rl.question("仓库名：", (value) => {
   rl.close();

@@ -17,8 +17,8 @@
 ## 使用指南
 
 ``` powershell
-- yarn global add create-codoon-react-app
-- create-codoon-react-app
+- yarn global add create-risu-react-app
+- create-risu-react-app
 # 根据提示输入仓库名 xxx 即可创建仓库
 
 - cd xxx
