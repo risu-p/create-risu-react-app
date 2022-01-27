@@ -1,6 +1,6 @@
-# 咕咚React应用模版
+# Risu React应用模版
 
-为create-codoon-react-app提供支持的咕咚React应用模版
+为create-risu-react-app提供支持的Risu React应用模版
 
 ### 项目启动
 

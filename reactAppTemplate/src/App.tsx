@@ -4,7 +4,7 @@ import { hot } from "react-hot-loader";
 import "./index.less";
 import Example from "./pages/Example";
 
-const PREFIX = "Codoon";
+const PREFIX = "Risu";
 
 class App extends Component {
   render() {

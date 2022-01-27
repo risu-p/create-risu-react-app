@@ -9,7 +9,7 @@ type IProps = ICommonProps;
 
 const Example: FC<IProps> = memo(({ className }) => {
   return (
-    <div className={classnames(PREFIX, className)}>开始编写咕咚React应用</div>
+    <div className={classnames(PREFIX, className)}>开始编写Risu React应用</div>
   );
 });
 

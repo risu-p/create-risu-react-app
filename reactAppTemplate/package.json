@@ -1,8 +1,8 @@
 {
-  "name": "new-codoon-react-app",
+  "name": "new-risu-react-app",
   "version": "0.0.1",
-  "description": "new codoon react app",
-  "author": "liuxw@codoon.com",
+  "description": "new risu react app",
+  "author": "xiaowei.liu0812@outlook.com",
   "private": true,
   "scripts": {
     "start": "webpack serve --mode development --env development",
